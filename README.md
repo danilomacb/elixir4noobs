@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/aleDsz/elixir4noobs">
-    <img src="./assets/elixir.png?version=1.0.0" alt="Logo">
+    <img src="./4noobsAssets/elixir.png" alt="Logo">
   </a>
 </p>
 
@@ -26,30 +26,30 @@
 ## Conteúdos
 
 1. Introdução
-    - [Sobre o Projeto](./contents/1%20-%20Introducao/1-Sobre%20o%20projeto.md)
-    - [Pré-requisitos](./contents/1%20-%20Introducao/2-Pre-requisitos.md)
-      * [Conhecimentos Necessários](./contents/1%20-%20Introducao/2-Pre-requisitos.md#conhecimentos-necessários)
-      * [Instalação](./contents/1%20-%20Introducao/2-Pre-requisitos.md#instalação)
+    - [Sobre o Projeto](./4noobsDocs/1-Introducao_1-Sobre-o-projeto.md)
+    - [Pré-requisitos](./4noobsDocs/1-Introducao_2-Pre-requisitos.md)
+      * [Conhecimentos Necessários](./4noobsDocs/1-Introducao_2-Pre-requisitos.md#conhecimentos-necessários)
+      * [Instalação](./4noobsDocs/1-Introducao_2-Pre-requisitos.md#instalação)
 2. Ambiente
-    - [Como começar?](./contents/2%20-%20Ambiente/1-Como%20comecar.md)
+    - [Como começar?](./4noobsDocs/2-Ambiente_1-Como-comecar.md)
 3. Linguagem
-    - [Sobre a linguagem](./contents/3%20-%20Linguagem/1-Sobre%20a%20linguagem.md)
-      * [Extensão](./contents/3%20-%20Linguagem/1-Sobre%20a%20linguagem.md#extensão)
-    - [Paradigma](./contents/3%20-%20Linguagem/2-Paradigma.md)
-    - [Expressões](./contents/3%20-%20Linguagem/3-Expressoes.md)
-    - [Sintaxe](./contents/3%20-%20Linguagem/4-Sintaxe.md)
-    - [Variáveis](./contents/3%20-%20Linguagem/8-Variaveis.md)
-      * [Tipos](./contents/3%20-%20Linguagem/8-Variaveis.md#tipos)
-    - [Módulos](./contents/3%20-%20Linguagem/5-Modulos.md)
-      * [Funções](./contents/3%20-%20Linguagem/5-Modulos.md#funções)
-    - [Estruturas de Repetição](./contents/3%20-%20Linguagem/6-Estruturas%20de%20Repeticao.md)
-    - [Estruturas de Decisão](./contents/3%20-%20Linguagem/7-Estruturas%20de%20Decisao.md)
+    - [Sobre a linguagem](./4noobsDocs/3-Linguagem_1-Sobre-a-linguagem.md)
+      * [Extensão](./4noobsDocs/3-Linguagem_1-Sobre-a-linguagem.md#extensão)
+    - [Paradigma](./4noobsDocs/3-Linguagem_2-Paradigma.md)
+    - [Expressões](./4noobsDocs/3-Linguagem_3-Expressoes.md)
+    - [Sintaxe](./4noobsDocs/3-Linguagem_4-Sintaxe.md)
+    - [Módulos](./4noobsDocs/3-Linguagem_5-Modulos.md)
+      * [Funções](./4noobsDocs/3-Linguagem_5-Modulos.md#funções)
+    - [Estruturas de Repetição](./4noobsDocs/3-Linguagem_6-Estruturas-de-Repeticao.md)
+    - [Estruturas de Decisão](./4noobsDocs/3-Linguagem_7-Estruturas-de-Decisao.md)
+    - [Variáveis](./4noobsDocs/3-Linguagem_8-Variaveis.md)
+      * [Tipos](./4noobsDocs/3-Linguagem_8-Variaveis.md#tipos)
 4. Recursos extras
-    - [Gerenciador de Pacotes](./contents/4%20-%20Recursos%20extras/1-Gerenciador%20de%20Pacotes.md)
-      * [Terminal Interativo](./contents/4%20-%20Recursos%20extras/1-Gerenciador%20de%20Pacotes.md#terminal-interativo)
-    - [Testes](./contents/4%20-%20Recursos%20extras/2-Testes.md)
-    - [Pattern Matching](./contents/4%20-%20Recursos%20extras/3-Pattern%20Matching.md)
-    - [Bibliotecas](./contents/4%20-%20Recursos%20extras/4-Bibliotecas.md)
+    - [Gerenciador de Pacotes](./4noobsDocs/4-Recursos-Extras_1-Gerenciador-de-Pacotes.md)
+      * [Terminal Interativo](./4noobsDocs/4-Recursos-Extras_1-Gerenciador-de-Pacotes.md#terminal-interativo)
+    - [Testes](./4noobsDocs/4-Recursos-Extras_2-Testes.md)
+    - [Pattern Matching](./4noobsDocs/4-Recursos-Extras_3-Pattern-Matching.md)
+    - [Bibliotecas](./4noobsDocs/4-Recursos-Extras_4-Bibliotecas.md)
 
 ## Quero contribuir
 
